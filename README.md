@@ -27,7 +27,7 @@ const seeboy = {
 
 - Working on **[Trendedektor](https://github.com/MaverickMeade/Trendedektor)** — a deal-hunting automation tool built with Python, Selenium, Flask, and Neon PostgreSQL.
 - Building random tools and scripts whenever something annoys me enough.
-- Heavily using Ai to help me get shit done.
+- Heavily using AI to help me get shit done.
 
 <br />
 
