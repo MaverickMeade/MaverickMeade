@@ -64,5 +64,4 @@ const seeboy = {
 
   <br />
 
-  <sub>"double-tap the void for warp speed."</sub>
 </div>
