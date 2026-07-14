@@ -26,8 +26,8 @@ const seeboy = {
 ```
 
 - Working on **[Trendedektor](https://github.com/MaverickMeade/Trendedektor)** — a deal-hunting automation tool built with Python, Selenium, Flask, and Neon PostgreSQL.
-- Maintaining **[seeboy.xyz](https://seeboy.xyz)** — an interactive, sound-reactive personal card with real-time Discord presence, theme switching, and a custom music player.
 - Building random tools and scripts whenever something annoys me enough.
+- Heavily using Ai to help me get shit done.
 
 <br />
 
