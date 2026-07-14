@@ -25,7 +25,8 @@ const seeboy = {
 };
 ```
 
-- Working on **[Trendedektor](https://github.com/MaverickMeade)** — a deal-hunting automation tool built with Python, Selenium, Flask, and Neon PostgreSQL.
+- Working on **[Trendedektor](https://github.com/MaverickMeade/Trendedektor)** — a deal-hunting automation tool built with Python, Selenium, Flask, and Neon PostgreSQL.
+- Maintaining **[seeboy.xyz](https://seeboy.xyz)** — an interactive, sound-reactive personal card with real-time Discord presence, theme switching, and a custom music player.
 - Building random tools and scripts whenever something annoys me enough.
 
 <br />
@@ -37,7 +38,7 @@ const seeboy = {
 
   <!-- Live Lanyard Card -->
   <a href="https://seeboy.xyz">
-    <img src="https://lanyard.wrapped.run/api/425993578750410757?theme=dark&bg=0f172a&animated=true" alt="Live Status" width="400" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/425993578750410757?theme=dark&bg=0f172a&animated=true&borderRadius=10px&idleMessage=probably%20offline%20touching%20grass" alt="Live Status" width="400" />
   </a>
 
   <br /><br />
